@@ -13,6 +13,9 @@ http://putiya.com/html/fish/fish_creature01_02.html
 * Make the model round by Proportional Editing
 * (UV)Project From View
 
+![alt tag](./triangulate.jpg)
+
+
 # output
 
 ![alt tag](./output.png)
