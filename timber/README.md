@@ -1,9 +1,5 @@
 # Timber
 
-![alt tag](./ao.png=400x400)
-
-http://putiya.com/html/fish/fish_creature01_02.html
-
 # Ambient Occlusion Bake
 
 * Modeling
@@ -17,4 +13,8 @@ http://putiya.com/html/fish/fish_creature01_02.html
 
 * Unlit Shader
 * It is not affected shader lighting, but it seems shaded by baked texture.
-* ![alt tag](./output.png)
+![alt tag](./output.png)
+
+# Baked Texture
+
+* ![alt tag](./ao.png)
