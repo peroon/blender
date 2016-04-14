@@ -12,7 +12,7 @@
 # Unity Output
 
 * Unlit Shader
-* It is not affected shader lighting, but it seems shaded by baked texture.
+* This shader is not affected from lighting, but it seems shaded by baked texture.
 ![alt tag](./output.png)
 
 # Baked Texture
