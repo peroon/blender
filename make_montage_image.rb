@@ -18,8 +18,8 @@ end
 Dir.chdir("temp")
 
 #モンタージュ画像作成
-system("montage -geometry +0+0 -resize 200x200! * montage.png")
-system("mv montage.png ../")
+system("montage -geometry +0+0 -resize 200x200! * montage.jpg")
+system("mv montage.jpg ../")
 Dir.chdir('..')
 
 #掃除

@@ -1,8 +1,8 @@
 # Blender 3D Models
 
-# Images
+# Works
 
-![](./montage.png)
+![](./montage.jpg)
 
 # Rule
 
