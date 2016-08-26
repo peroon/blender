@@ -8,6 +8,8 @@
 
 ## Inspector in Unity
 
+* on emission, grayscale image is enough, because the color is adjustable and image size can be reduced
+
 ![](./inspector.png)
 
 ## UV Texture
