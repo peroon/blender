@@ -4,18 +4,23 @@
 
 ## Output
 
-![](./sword.gif =300x)
+![](./sword.gif)
 
 ## Inspector in Unity
 
 ![](./inspector.png)
 
+## UV Texture
+
+![](./UV.png)
+
+
 ## Diffuse Texture
 
-![](./Diffuse.png =100x)
+![](./Diffuse.png)
 
 ## Light Texture 
 
 * use texture offset for emission movement
 
-![](./Light.png =100x)
+![](./Light.png)
