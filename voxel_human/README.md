@@ -19,8 +19,15 @@
 
 ### IK
 
+* In Pose Mode,
+
+![](./set-IK-at-pose-mode.png)
+
 * Set IK to wrists
 * Make animation
+
+### Unity
+
 * Import to Unity
 * It works!
 
