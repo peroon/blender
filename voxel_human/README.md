@@ -16,3 +16,12 @@
 
 * 340 tris
 * 30 minutes
+
+### IK
+
+* Set IK to wrists
+* Make animation
+* Import to Unity
+* It works!
+
+![](./animation.gif)
