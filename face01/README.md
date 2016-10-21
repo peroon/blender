@@ -4,6 +4,11 @@
 
 * separate face and eyeball
 
+## Concave white-eye
+
+![](./white-eye-concave.png)
+
+
 ## Shapekey for wink
 
 * TODO
