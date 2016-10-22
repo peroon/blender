@@ -11,7 +11,8 @@
 
 ## Shapekey for wink
 
-* TODO
+![](./eye-wink.gif)
+
 
 ## Shapekey for eye direction
 
