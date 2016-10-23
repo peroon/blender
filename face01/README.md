@@ -16,4 +16,13 @@
 
 ## Shapekey for eye direction
 
-* TODO
+![](./keys.png)
+
+* eye-direction : a little difficult to make
+* eye-scale : easy to make
+	* for surprised face
+
+### Concave eye-ball problem when look-at upper
+
+![](./problem.png)
+
