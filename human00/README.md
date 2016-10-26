@@ -25,3 +25,13 @@
 
 * 顔に目の形でMeshはってEでくぼませる
 * 目玉も同一Mesh管理するために、くぼませた後で目玉の形でMeshはる
+
+# Hair bone
+
+* Automatic Weight : Select mesh, bone, Ctrl+P
+
+![](./hair-weight.png)
+
+# Body
+
+![](./body.png)
