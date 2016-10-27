@@ -35,3 +35,5 @@
 # Body
 
 ![](./body.png)
+![](./rough-texture-mapping.png)
+
