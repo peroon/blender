@@ -37,3 +37,14 @@
 ![](./body.png)
 ![](./rough-texture-mapping.png)
 
+# Ear
+
+![](./ear-basis.png)
+
+* Basisの耳を丸くして丸みをもたせたらBlendshape後の方に反映されず、各Blendshapeにも同様の変形をする必要があった
+
+# Hand
+
+![](./hand.png)
+
+* for bone
