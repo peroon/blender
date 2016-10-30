@@ -64,10 +64,20 @@
 
 * Mirrorを切ってもX Mirrorを使えばMesh調整を省力化できる
 
+# Unity
+![](./unity-hierarchy.png)
+
+* Humanoid
+* 頭を体の首ボーンの子にする
+
 # Run Animation
 
 ![](./run.gif)
 
 * 赤い腹巻きのWeight調整が必要
 
+# Nice Run!
 
+* Weightと首のテクスチャ調整
+
+![](./nice-run.png)
