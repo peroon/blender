@@ -48,3 +48,26 @@
 ![](./hand.png)
 
 * for bone
+
+# Blendeshape import to Unity Problem
+
+* Mirror and Shapekey -> blendshape is not imported to Unity
+* そうだった・・・
+* Shapekeyを付ける前にMirrorをApplyしておく必要がある
+
+
+![](./remake-shape-key.png)
+
+# Remake shape key
+
+![](./x-mirror.png)
+
+* Mirrorを切ってもX Mirrorを使えばMesh調整を省力化できる
+
+# Run Animation
+
+![](./run.gif)
+
+* 赤い腹巻きのWeight調整が必要
+
+
