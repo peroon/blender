@@ -86,3 +86,13 @@
 
 ![](./add-articular-edge.png)
 * 腕の変形時に角っぽくなるのでctrl+Rで分割を増やした
+* ねじれの対応も必要だな・・・
+
+# 邪眼
+* Fire-prepare pose
+
+![](./jagan-no-chikara.png)
+![](./jagan-sample.jpg)
+
+
+
