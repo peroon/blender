@@ -81,3 +81,8 @@
 * Weightと首のテクスチャ調整
 
 ![](./nice-run.png)
+
+# Arm
+
+![](./add-articular-edge.png)
+* 腕の変形時に角っぽくなるのでctrl+Rで分割を増やした
