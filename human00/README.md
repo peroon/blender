@@ -99,3 +99,8 @@
 * そうしないとAnimation作るときに顔の向きが付いてこない
 * TODO 髪揺れ用のボーンはどうする？
 
+# Shot
+
+![](./fire-shot-animation.gif)
+
+
