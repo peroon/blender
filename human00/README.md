@@ -94,5 +94,8 @@
 ![](./jagan-no-chikara.png)
 ![](./jagan-sample.jpg)
 
+# Head parent is neck bone
 
+* そうしないとAnimation作るときに顔の向きが付いてこない
+* TODO 髪揺れ用のボーンはどうする？
 
