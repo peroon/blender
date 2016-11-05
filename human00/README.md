@@ -103,4 +103,8 @@
 
 ![](./fire-shot-animation.gif)
 
+# Using video to make animation
+
+* do animation by myself and take video with smartphone
+* then make animation while looking the video
 
