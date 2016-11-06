@@ -108,3 +108,10 @@
 * do animation by myself and take video with smartphone
 * then make animation while looking the video
 
+# Sword animation
+
+
+![](./sword-animation.jpg)
+
+* Add sword bone as a child of hand bone
+* You should take care of the direction of blade of sword (刃の向き
