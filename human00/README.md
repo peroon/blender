@@ -115,3 +115,8 @@
 
 * Add sword bone as a child of hand bone
 * You should take care of the direction of blade of sword (刃の向き
+
+# Swing Sword
+
+* Unityで確認してみると、剣振りモーションは振りかぶったところから再生した方がいいとわかる
+* また、大きく振らないと目立たない
