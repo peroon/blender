@@ -88,6 +88,11 @@
 * 腕の変形時に角っぽくなるのでctrl+Rで分割を増やした
 * ねじれの対応も必要だな・・・
 
+# Pants
+
+* loose pants is difficult to paint weight
+
+
 # 邪眼
 * Fire-prepare pose
 
