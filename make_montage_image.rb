@@ -1,3 +1,4 @@
+# coding: utf-8
 require "fileutils"
 require "securerandom"
 
@@ -18,7 +19,7 @@ end
 Dir.chdir("temp")
 
 #モンタージュ画像作成
-system("montage -geometry +0+0 -resize 200x200! * montage.jpg")
+system("montage -geometry +0+0 -tile 5 -resize 200x200! * montage.jpg")
 system("mv montage.jpg ../")
 Dir.chdir('..')
 
